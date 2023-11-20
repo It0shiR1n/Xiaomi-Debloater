@@ -85,7 +85,7 @@ if [ $USER == "root" ]; then
             read action
 
             if [ $action == "Y" ]; then
-                sudo apt install adb -y
+                apt install adb -y
             else
                 echo "[+] Please install ADB to use this script."
             fi
