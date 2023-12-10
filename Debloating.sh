@@ -13,8 +13,8 @@ AppsToRemove=("com.android.camera"
  "com.android.bluetoothmidiservice"
  "com.android.dreams.basic"
  "com.android.hotwordenrollment.xgoogle"
- "com.android.inputdevices"                    # Attention Point
- "com.android.ons"
+ "com.android.inputdevices"                    # Install other open-source keyboard
+ "com.android.ons"                             # Pinpoint
  "com.facebook.appmanager"
  "com.facebook.services"
  "com.facebook.system"
@@ -77,7 +77,7 @@ AppsToRemove=("com.android.camera"
  "com.xiaomi.payment"
  "com.xiaomi.xmsfkeeper"
  "com.wapi.wapicertmanager"                 # if you will go to china, reactive this, you will need
- 
+ "org.ifaa.aidl.manager"                    # Pinpoint
 )
 
 if [ $USER == "root" ]; then 
