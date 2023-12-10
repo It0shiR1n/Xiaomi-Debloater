@@ -44,7 +44,9 @@ AppsToRemove=("com.android.camera"
  "com.miui.analytics"
  "com.miui.daemon"                              # Really Biggest Pinpoint (and also a tracker)
  "com.miui.cleaner"
+ "como.miui.home"                               # Install Other apps launcher
  "com.miui.audiomonitor"
+ "com.miui.miwallpaper"                         # This is will remove the wallpapers and will leave just a solid black image on lock and desk screen
  "com.miui.bugreport"
  "com.miui.calculator"
  "com.miui.cloudbackup"
@@ -74,6 +76,7 @@ AppsToRemove=("com.android.camera"
  "com.xiaomi.mipicks"
  "com.xiaomi.payment"
  "com.xiaomi.xmsfkeeper"
+ "com.wapi.wapicertmanager"                 # if you will go to china, reactive this, you will need
  
 )
 
