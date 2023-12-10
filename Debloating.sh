@@ -10,6 +10,11 @@ AppsToRemove=("com.android.camera"
  "com.android.soundrecorder"
  "com.android.statementservice"
  "com.android.thememanager"
+ "com.android.bluetoothmidiservice"
+ "com.android.dreams.basic"
+ "com.android.hotwordenrollment.xgoogle"
+ "com.android.inputdevices"                    # Attention Point
+ "com.android.ons"
  "com.facebook.appmanager"
  "com.facebook.services"
  "com.facebook.system"
@@ -30,9 +35,15 @@ AppsToRemove=("com.android.camera"
  "com.google.android.projection.gearhead"
  "com.google.android.tts"
  "com.google.android.youtube"
+ "com.google.android.onetimeinitializer"
+ "com.google.android.partnersetup"              # Attention Point (Deixa outras apliações interagirem com o eco sistema google
+ "com.google.android.webview"                   # Install Bromite webview (https://www.bromite.org/news/2018-12-21-new-fdroid-repository-url)
+ "com.mediatek.callrecorder"
  "com.mi.android.globalFileexplorer"
  "com.mipay.wallet.in"
  "com.miui.analytics"
+ "com.miui.daemon"                              # Really Biggest Pinpoint (and also a tracker)
+ "com.miui.cleaner"
  "com.miui.audiomonitor"
  "com.miui.bugreport"
  "com.miui.calculator"
@@ -63,7 +74,7 @@ AppsToRemove=("com.android.camera"
  "com.xiaomi.mipicks"
  "com.xiaomi.payment"
  "com.xiaomi.xmsfkeeper"
- "com.android.bluetoothmidiservice"
+ 
 )
 
 if [ $USER == "root" ]; then 
