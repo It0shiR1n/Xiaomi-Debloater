@@ -37,14 +37,11 @@ AppsToRemove=("com.android.camera"
  "com.google.android.youtube"
  "com.google.android.onetimeinitializer"
  "com.google.android.partnersetup"              # Attention Point (Deixa outras apliações interagirem com o eco sistema google
- "com.google.android.webview"                   # Install Bromite webview (https://www.bromite.org/news/2018-12-21-new-fdroid-repository-url)
- "com.mediatek.callrecorder"
  "com.mi.android.globalFileexplorer"
  "com.mipay.wallet.in"
  "com.miui.analytics"
- "com.miui.daemon"                              # Really Biggest Pinpoint (and also a tracker)
+ "com.miui.daemon"                              # Really Biggest Pinpoint (and also a tracker) -------------------
  "com.miui.cleaner"
- "como.miui.home"                               # Install Other apps launcher
  "com.miui.audiomonitor"
  "com.miui.miwallpaper"                         # This is will remove the wallpapers and will leave just a solid black image on lock and desk screen
  "com.miui.bugreport"
@@ -65,7 +62,6 @@ AppsToRemove=("com.android.camera"
  "com.miui.phrase"
  "com.miui.player"
  "com.miui.screenrecorder"
- "com.miui.systemui.carriers.overlay"
  "com.miui.touchassistant"
  "com.miui.videoplayer"
  "com.miui.weather2"
