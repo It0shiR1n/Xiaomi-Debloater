@@ -63,6 +63,7 @@ AppsToRemove=("com.android.camera"
  "com.xiaomi.mipicks"
  "com.xiaomi.payment"
  "com.xiaomi.xmsfkeeper"
+ "com.android.bluetoothmidiservice"
 )
 
 if [ $USER == "root" ]; then 
