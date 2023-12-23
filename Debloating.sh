@@ -36,7 +36,7 @@ AppsToRemove=("com.android.camera"
  "com.google.android.tts"
  "com.google.android.youtube"
  "com.google.android.onetimeinitializer"
- "com.google.android.partnersetup"              # Attention Point (Deixa outras apliações interagirem com o eco sistema google
+ "com.google.android.partnersetup"              # Attention Point (let other applications interact google eco services)
  "com.mi.android.globalFileexplorer"
  "com.mipay.wallet.in"
  "com.miui.analytics"
